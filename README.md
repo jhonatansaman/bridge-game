@@ -1,3 +1,8 @@
+Bridge Game
+
+<img width="1510" alt="image" src="https://user-images.githubusercontent.com/19751636/188343608-67c34847-45fb-4e29-a8f0-1d766c82e2cf.png">
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
