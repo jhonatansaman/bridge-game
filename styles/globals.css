@@ -21,6 +21,18 @@ a {
   }
   body {
     color: white;
-    background: black;
   }
+}
+
+#frame {
+  width: 450px;
+  height: 450px;
+  position: relative;
+  margin: auto;
+}
+
+#frame div {
+  position: absolute;
+  width: 150px;
+  height: 150px;
 }
